@@ -4,7 +4,7 @@ java -jar target/demo-liquibase-0.0.1-SNAPSHOT.jar --spring.h2.console.enabled=t
 ~~~
 ## Open the H2 console in a web browser
 ~~~
-http://localhost:8080/h2-console/login.jsp?jsessionid=308a789108916080edead3489b15ce8e
+http://localhost:8080/h2-console/
 ~~~
 
 ## H2 Database Connection String
